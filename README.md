@@ -10,4 +10,4 @@ Section: BSIT 3.5
 
 ## What I learned
 - Compile errors I triggered: CS1002 (a semicolon is missing at the end of a statement), CS0103 (a name doesn't exist in the current context, such as `console` instead of `Console`).
-- My prediction for 250 / 4 with int values was ___ and the result was ___ because ___.
+- My prediction for 250 / 4 with int values was 62.5 and the result was 62 because dividing two int values drops the decimal part.
