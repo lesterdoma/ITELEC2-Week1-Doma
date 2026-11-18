@@ -6,5 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+	<ItemGroup>
+		<Compile Remove="Program2_Profile\**" />
+		<Compile Remove="Program3_BillSplitter\**" />
+		<EmbeddedResource Remove="Program2_Profile\**" />
+		<EmbeddedResource Remove="Program3_BillSplitter\**" />
+		<None Remove="Program2_Profile\**" />
+		<None Remove="Program3_BillSplitter\**" />
+	</ItemGroup>
 </Project>
