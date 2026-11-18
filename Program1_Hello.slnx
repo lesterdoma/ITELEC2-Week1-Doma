@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../Program2_Profile/Program2_Profile.csproj" />
+  <Project Path="../Program3_BillSplitter/Program3_BillSplitter.csproj" Id="2c089b43-3c7b-4c45-8f46-13476f99f531" />
   <Project Path="Program1_Hello.csproj" />
 </Solution>
